@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+client/node_modules/
+
+# React build output (if you still have a build folder)
+client/build/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Dependency directories
+jspm_packages/
+
+# Optional: editor or IDE files
+.vscode/
+.idea/
