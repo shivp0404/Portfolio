@@ -65,7 +65,7 @@ This is a full-stack portfolio website built with Vite.js (React frontend) and N
 
 - ![Portfolio home page ](./screenshots/home.png)
 - ![Portfolio project page ](./screenshots/project.png)
-- ![Portfolio contact page ](./screenshots/contact.png)
+- ![Portfolio contact page ](./screenshots/contactform.png)
 
 ---
 
